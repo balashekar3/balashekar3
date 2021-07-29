@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @balashekar3
+- 👋 Hi, I’m @balashekar
 - 👀 I’m interested in iOS App Development
 - 🌱 I’m currently learning SwiftUI
 - 💞️ I’m looking to collaborate on an iOS App Development
