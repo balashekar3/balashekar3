@@ -2,7 +2,7 @@
 - 👀 I’m interested in iOS App Development
 - 🌱 I’m currently learning SwiftUI
 - 💞️ I’m looking to collaborate on an iOS App Development
-- 📫 How to reach me balashekar3@gmail.com
+- 📫 How to reach me balashekariosdeveloper@gmail.com
 
 <!---
 balashekar3/balashekar3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
