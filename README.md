@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @balashekar
 - 👀 I’m interested in iOS App Development
-- 🌱 I’m currently learning SwiftUI
+- 🌱 I’m currently Exploring AI
 - 💞️ I’m looking to collaborate on an iOS App Development
 - 📫 How to reach me balashekariosdeveloper@gmail.com
 
